@@ -1,0 +1,17 @@
+{
+	"type": "forge:ore_shaped",
+	"conditions": [{ "type": "wallpaper", "wallpaper": "sweets" }],
+	"pattern": [
+		"PA",
+		"PB"
+	],
+	"key": {
+		"P": { "type": "forge:ore_dict", "ore": "paper" },
+		"A": { "type": "forge:ore_dict", "ore": "dyeBrown" },
+		"B": { "type": "forge:ore_dict", "ore": "dyeRed" }
+	},
+	"result": {
+		"item": "wallpaper",
+		"data": 84
+	}
+}

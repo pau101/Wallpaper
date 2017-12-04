@@ -1,0 +1,16 @@
+{
+	"type": "forge:ore_shaped",
+	"pattern": [
+		"P",
+		"I",
+		"S"
+	],
+	"key": {
+		"P": { "type": "forge:ore_dict", "ore": "paper" },
+		"I": { "type": "forge:ore_dict", "ore": "ingotIron" },
+		"S": { "type": "forge:ore_dict", "ore": "stickWood" }
+	},
+	"result": {
+		"item": "wallpaper_scraper"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"type": "forge:ore_shaped",
+	"conditions": [{ "type": "wallpaper", "wallpaper": "chainlink_fence" }],
+	"pattern": [
+		"PA",
+		"PB"
+	],
+	"key": {
+		"P": { "type": "forge:ore_dict", "ore": "paper" },
+		"A": { "type": "forge:ore_dict", "ore": "dyeCyan" },
+		"B": { "type": "forge:ore_dict", "ore": "dyeGray" }
+	},
+	"result": {
+		"item": "wallpaper",
+		"data": 12
+	}
+}

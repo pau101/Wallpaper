@@ -1,0 +1,5 @@
+{
+	"conditions": {
+		"wallpaper": "com.pau101.wallpaper.server.item.crafting.WallpaperConditionFactory"
+	}
+}

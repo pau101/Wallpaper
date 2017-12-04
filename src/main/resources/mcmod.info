@@ -1,0 +1,14 @@
+[{
+	"modid": "wallpaper",
+	"name": "Wallpaper",
+	"description": "Decorate your house with the many wallpapers of this mod!",
+	"version": "${version}",
+	"mcversion": "${mcversion}",
+	"url": "",
+	"updateUrl": "",
+	"authorList": [ "pau101" ],
+	"credits": "Wallpapers derived from Animal Crossing",
+	"logoFile": "logo.png",
+	"screenshots": [],
+	"dependencies": []
+}]

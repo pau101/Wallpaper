@@ -1,0 +1,17 @@
+{
+	"type": "forge:ore_shaped",
+	"conditions": [{ "type": "wallpaper", "wallpaper": "ringside_seating" }],
+	"pattern": [
+		"PA",
+		"PB"
+	],
+	"key": {
+		"P": { "type": "forge:ore_dict", "ore": "paper" },
+		"A": { "type": "forge:ore_dict", "ore": "dyeBlack" },
+		"B": { "type": "forge:ore_dict", "ore": "dyeYellow" }
+	},
+	"result": {
+		"item": "wallpaper",
+		"data": 72
+	}
+}

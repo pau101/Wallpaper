@@ -1,0 +1,21 @@
+{
+	"wallpaper.place": {
+		"sounds": [
+			"wallpaper:wallpaper/place1",
+			"wallpaper:wallpaper/place2"
+		]
+	},
+	"wallpaper.remove": {
+		"sounds": [
+			"wallpaper:wallpaper/remove1",
+			"wallpaper:wallpaper/remove2",
+			"wallpaper:wallpaper/remove3",
+			"wallpaper:wallpaper/remove4",
+			"wallpaper:wallpaper/remove5",
+			"wallpaper:wallpaper/remove6",
+			"wallpaper:wallpaper/remove7",
+			"wallpaper:wallpaper/remove8",
+			"wallpaper:wallpaper/remove9"
+		]
+	}
+}

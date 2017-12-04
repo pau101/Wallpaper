@@ -52,6 +52,5 @@ ____|__|_|_|_|_|_|-.-/ .
  \___/  \___/    O-=-O |\\.
 
 .gradle/
-gradle*
 build/
 server_run/
